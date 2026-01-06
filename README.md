@@ -61,8 +61,7 @@ cd spring-tasks/task2-rest-api
 # Build & run
 ./mvnw spring-boot:run
 
-Images how it should work:
-![Scereenshot](images/GET.png)
+You can find all images of how it should be working in the images file in my repository.
 
 
 Answer :
