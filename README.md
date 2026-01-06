@@ -62,7 +62,7 @@ cd spring-tasks/task2-rest-api
 ./mvnw spring-boot:run
 
 Images how it should work:
-
+(images/GET.png)
 
 
 Answer :
